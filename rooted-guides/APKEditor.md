@@ -1,4 +1,4 @@
-# Requirements
+## Requirements
 
 * [LSPosed](https://github.com/JingMatrix/LSPosed)
 * [CorePatch](https://github.com/LSPosed/CorePatch)
@@ -7,11 +7,11 @@
 * ReVanced patches or any related fork
 * [YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube)
 
-## Patch & Prepare
+# Prepare & Patch
 
 # Extract YouTube's signature data
 ```
-apkeditor d -t sig -i YouTube_XX.XX.XX.apk
+java -jar ApkEditor_X.X.X.jar d -t sig -i YouTube_XX.XX.XX.apk
 ```
 
 # Patch YouTube
@@ -21,7 +21,7 @@ java -jar revanced-cli-X.X.X-all.jar patch -p patches-X.XX.X.rvp -d "GmsCore sup
 
 # Sign with fake signature
 ```
-apkeditor b -t sig -i ReVanced_XX.XX.XX.apk -sig $PWD/YouTube_XX.XX.XX_decompile_sig/signatures -o ReVanced_XX.XX.XX_Root.apk
+java -jar ApkEditor_X.X.X.jar b -t sig -i ReVanced_XX.XX.XX.apk -sig $PWD/YouTube_XX.XX.XX_decompile_sig/signatures -o ReVanced_XX.XX.XX_Root.apk
 ```
 
 # Final apk
