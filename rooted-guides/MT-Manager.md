@@ -13,4 +13,4 @@
 * Grab both Stock & Patched APK
 * Use MT Manager to Delete Everything from the Stock APK except META-INF folder (Skip Signing the APK)
 * Copy all the files from Patched APK to Edited Stock APK, make sure to skip META-INF folder. (Skip Signing this time as well)
-* Done ✅, Now you have apk file of YT / YT Music which you can directly install and use (If Signature Verification is Disabled on your ROM)
+* Done ✅, Now you have the APK File of YT/YT Music which you can Directly Install and use (If Signature Verification is Disabled on your ROM)
