@@ -3,7 +3,7 @@
 
 ## Requirements
 
-* [MT Manager](mt2.cn)
+* [MT Manager](https://mt2.cn)
 * [LSPosed](https://github.com/JingMatrix/LSPosed)
 * [CorePatch](https://github.com/LSPosed/CorePatch)
 * [YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube)
