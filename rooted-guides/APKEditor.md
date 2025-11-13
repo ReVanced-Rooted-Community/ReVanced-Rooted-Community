@@ -21,8 +21,8 @@ java -jar revanced-cli-X.X.X-all.jar patch -p patches-X.XX.X.rvp -d "GmsCore sup
 
 # Sign with fake signature
 ```
-java -jar ApkEditor-X.X.X.jar b -t sig -i ReVanced_XX.XX.XX.apk -sig $PWD/YouTube_XX.XX.XX_decompile_sig/signatures -o ReVanced_XX.XX.XX_Root.apk
+java -jar ApkEditor-X.X.X.jar b -t sig -i ReVanced_XX.XX.XX.apk -sig $PWD/YouTube_XX.XX.XX_decompile_sig/signatures -o ReVanced_XX.XX.XX-Root.apk
 ```
 
 # Final apk
-* **ReVanced_XX.XX.XX_Root.apk**
+* **ReVanced_XX.XX.XX-Root.apk**
