@@ -1,6 +1,6 @@
 ## Requirements
 
-* [LSPosed](https://github.com/JingMatrix/LSPosed)
+* [LSPosed](https://github.com/JingMatrix/LSPosed) or [ReLSPosed](https://github.com/ThePedroo/ReLSPosed)
 * [CorePatch](https://github.com/LSPosed/CorePatch)
 * [APKEditor](https://github.com/REAndroid/APKEditor)
 * [j-hc ReVanced CLI](https://github.com/j-hc/revanced-cli)
