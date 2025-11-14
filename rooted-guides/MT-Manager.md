@@ -4,7 +4,7 @@
 ## Requirements
 
 * [MT Manager](https://mt2.cn)
-* [LSPosed](https://github.com/JingMatrix/LSPosed)
+* [LSPosed](https://github.com/JingMatrix/LSPosed) or [RELSPosed](https://github.com/ThePedroo/ReLSPosed)
 * [CorePatch](https://github.com/LSPosed/CorePatch)
 * [YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube)
 
