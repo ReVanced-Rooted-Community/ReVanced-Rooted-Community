@@ -16,7 +16,7 @@ java -jar ApkEditor-X.X.X.jar d -t sig -i YouTube_XX.XX.XX.apk
 
 # Patch YouTube
 ```
-java -jar revanced-cli-X.X.X-all.jar patch -p patches-X.XX.X.rvp -d "GmsCore support" --unsigned -f --purge -o ReVanced_XX.XX.XX.apk YouTube_XX.XX.XX.apk
+java -jar revanced-cli-X.X.X-all.jar patch -p patches-X.XX.X.rvp -d "GmsCore support" -d "Spoof video streams" --unsigned -f --purge -o ReVanced_XX.XX.XX.apk YouTube_XX.XX.XX.apk
 ```
 
 # Sign with fake signature
